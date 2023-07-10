@@ -3,4 +3,4 @@ Spam Mail classifier is the pridiction system which defines that the mail is spa
 by training the logisticregression method to classify the mail.
 ##  Dataset
 training of model is done by the given dataset used in the process.
-you can also download the [dataset](kaggle datasets download -d iamvinay1/spam-email-dataset/) it is also povided in files.
+you can also download the [dataset](https://www.kaggle.com/datasets/iamvinay1/spam-email-dataset). it is also povided in files.
